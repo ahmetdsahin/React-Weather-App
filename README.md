@@ -9,11 +9,13 @@ Developed using React Js and TailwindCss. A web-based weather application was de
 
 **API:** OpenWeatherMap API
 
-  ## ScreenShots
-  
-  ![open_weather](https://github.com/user-attachments/assets/070b621d-47e0-4087-a8f5-aef265d3928c)
 
-
-  ## Demo
+## Demo
 Here is a working live demo : https://ahmetdsahin-weather-app.vercel.app/
+
+## ScreenShots
+  
+![open_weather](https://github.com/user-attachments/assets/070b621d-47e0-4087-a8f5-aef265d3928c)
+
+
 
